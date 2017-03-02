@@ -93,4 +93,5 @@ ENV/
 
 .idea/
 MNIST_data/
+logs/
 
